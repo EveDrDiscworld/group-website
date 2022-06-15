@@ -24,3 +24,6 @@ are caused by two trailing spaces at the end of a line.
    2. SEction 2
 
 4. Philosophers Carpentry
+
+![University of Leeds Logo](./unileedslogo.png)  
+University of Leeds Logo copyright University of Leeds 2022
